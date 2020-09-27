@@ -1,2 +1,2 @@
 # fastest_leetcode_cn
-leetcode_cn中最快的代码
+收集leetcode_cn中java最快的代码,如果大家愿意帮忙写题解欢迎提交。
