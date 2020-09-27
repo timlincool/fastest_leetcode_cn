@@ -1,0 +1,2 @@
+# fastest_leetcode_cn
+leetcode_cn中最快的代码
